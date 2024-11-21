@@ -24,8 +24,8 @@ The project is structured as follows:
 ```
 <repository-directory>
 │
-├── line_drawer.py          # Contains the LineDrawer class
-├── circle_drawer.py        # Contains the CircleDrawer class
+├── bresenham_line.py          # Contains the LineDrawer class
+├── bresenham_circle.py        # Contains the CircleDrawer class
 ├── main.py                 # Main script to run the clock
 ├── README.md               # Project README file
 ```
@@ -33,7 +33,7 @@ The project is structured as follows:
 ### Running the Project
 To run the analog clock application, execute the following command:
 ```bash
-python main.py
+python clock.py
 ```
 
 ### Code Explanation
