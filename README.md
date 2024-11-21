@@ -24,9 +24,9 @@ The project is structured as follows:
 ```
 <repository-directory>
 │
-├── bresenham_line.py          # Contains the LineDrawer class
-├── bresenham_circle.py        # Contains the CircleDrawer class
-├── main.py                 # Main script to run the clock
+├── bresenham_line.py       # Contains the LineDrawer class
+├── bresenham_circle.py     # Contains the CircleDrawer class
+├── clock.py                # Main script to run the clock
 ├── README.md               # Project README file
 ```
 
